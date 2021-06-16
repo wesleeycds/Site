@@ -1,0 +1,102 @@
+<!DOCTYPE html>   
+<! -- saved from url= (0051)https://estatic-golick-8fc0c.netlify.app/#contato -->
+<html lang="pt-br"> <head> <meta http-equiv="Content - type " content="text/html; charset= utf-8">
+            <link rel="stylesheet" type="text/css"  href="./vinicius fotos_files/style.css">                          
+            <link rel="stylesheet" type="text/css"  href="./vinicius fotos_files/normalize.css">
+            <link href="./vinicius fotos_files/css2" rel="stylesheet">
+            <title>vinicius fotos</title>
+
+            <meta name="author" content="vinicius da costa santos">
+        </head>   
+        <body>
+                <nav>
+                        <a href="https://ecstatic-golick-8fca0c.netlify.app/8">Ricardo fotos</a>
+                        <ul>
+                                <li><a href="https://ecstatic.golick-8fca0c.netlify.app/#sobre">Sobre</a></li>
+                                <li><a href="https://ecstatic.golick-8fca0c.netlify.app/#servi%C3%A7o">ServiÃ§os</a><li>
+                                <li><a href="https://ecstatic.golick-8fca0c.netlify.app/#fotos">Fotos</a><li>                       
+                                <li><a href="https://ecstatic.golick-8fca0c.netlify.app/#contato">Contatos</a><li>
+                        </ul>               
+                
+                </nav>
+
+                <head id="topo">
+                    <h1>fÃ³tografo Profisional</h1>
+                    <p>Trabalhar com fotografia, videos, fez eu entender que este serviÃ§o Ã© algo impresidivel.
+                    A todo momento estamos vivendo dias maravilhosos que podem ser armazenados de uma forma muito
+                    divertida e emocionante, criando histÃ³ria e relembrando sentimes.</p>
+                    <a href="https>//ecstatic-golick-8fca0c.netlify.app/#servi%C3%A7o">ver mais</a>
+                </head>       
+          
+
+    
+                <section id="sobre">
+                    <h2>Sobre</h2>
+                    <p>Eu sou Ricardo, cuido do canal da hotinger que Ã© uma empresa multinacional, criando
+                     conteÃºdos em video para emponderar a populuÃ§Ã£o</p>
+                     <a href="https>//ecstatic-golick-8fca0c.netlify.app/#contato" class="botao">Contrate Agora</a>    
+                </section>
+                
+                <section id="serviÃ§o">
+                        <h2>ServiÃ§os</h2>
+
+                        <div>
+                                <img src=".Vinicius Fotos_files/p1.png" alt="camera">
+                                <h3>fotografia</h3>
+                                <p>Guarde momentos importantes, como casamentos, formatura, aniversÃ¡rios, para sempre 
+                                e com alta qualidade</p> 
+                        </div>
+
+                        <div>
+                            <img src="./Vinicius Foto_files/p2.png" alt="video">
+                            <h3>EdiÃ§Ã£o de Video</h3>
+                            <p>Quer transformar alguma lembranÃ§a em video em algo emocionante com trilha sonora,
+                            textos e cores fantasticas?</p>
+                        </div>    
+
+
+
+                        <div>
+                            <img src="./Vinicius Foto_files/p3.png" alt="videoplayer">
+                            <h3>CaptaÃ§Ã£o de Imagem</h3>
+                            <p>Vai participar de algum evento importante em sua vida, entÃ£o Ã© importante recordar tudo 
+                            a cada segundo para tornar tudo imortal.</p>
+                        </div>
+    
+
+                </section>
+
+                <section id="fotos">
+
+                            <h2>Fotos</h2>
+                            <img src="./Vinicius Foto_files/ceu.jpg" alt="ceu">
+                            <img src="./Vinicius Foto_files/grama.jpg" alt="grama">
+                            <img src="./Vinicius Foto_files/montanha.jpg" alt="montanha">
+                            <img src="./Vinicius Foto_files/mar.jpg" alt="mar">
+                            <img src="./Vinicius Foto_files/arvores.jpg" alt="arvore">
+                            <img src="./Vinicius Foto_files/ponte.jpg" alt="ponte">
+
+                </section>   
+
+                <section id= "contrato">         
+                            <h2>Contatos</h2>
+                            <p>Vem falar com a gente</p>
+
+                <div>
+                        <img src=".Vinicius Fotos_files/tel.png" alt="telefone">
+                        <p> <a href="tel:48999887733"> (48) 99988-7733</a></p>
+                </div>                                    
+
+                <div>
+                        <img src="./Vinicius Fotos_files/email.png" alt="email">
+                        <p><a href="meioto: Viniciussantos10866@gmail.com"> </a> </p>                  
+                </div>
+
+                </section>
+
+                <footer>
+                        <a href="https://ecstatic-golick-8fca0c.netlify.app/#topo">Voltar</a>
+                        <p>Desenvolvido pelo melhor desenvolvedor, JoÃ£o :)</p>
+                </footer>
+
+        </body> </html>        
